@@ -28,6 +28,7 @@ Intro to space engineering
 Get to know all the amazing people we have on the team 🙂
 
 **Content Overview**
+
 The week numbers correspond to the weeks of the school semester.
 
 Semester One - Fall
