@@ -13,6 +13,7 @@ Please note that you require NO PREVIOUS KNOWLEDGE and we are here to support yo
 By the end of Space School, you will gain experience in the following areas:
 
 Technical skills
+
 LAUNCHING SOMETHING INTO THE STRATOSPHERE 🚀
 Arduino
 CAD
