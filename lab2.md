@@ -108,7 +108,7 @@ _As an aside, knowing the accuracy, precision, and linearity of our sensor deter
 
 Okay, great! So we have lots of information right from the start, there are just a few more pieces we need. The first is the pinout. This is a description of the functionality of each of a device's connection points. Knowing the pinout of a device makes sure we are connecting power to power, ground to ground, and the inputs and outputs are connected properly. The pinout can be found on the first page again and is shown below alongside a photo of the physical sensor. 
 
-![TMP36 Pinout V1](https://github.com/queens-satellite-team/Space-School/blob/bb1df16b5dcc6b585fb614fad82e5aceec367c11/lab2/lab2-images/tmp36-pinout-v1.png) ![TMP36 Pinout V2](https://github.com/queens-satellite-team/Space-School/blob/bb1df16b5dcc6b585fb614fad82e5aceec367c11/lab2/lab2-images/tmp36-pinout-v2.png)
+![TMP36 Pinout V1]([https://github.com/queens-satellite-team/Space-School/blob/bb1df16b5dcc6b585fb614fad82e5aceec367c11/lab2/lab2-images/tmp36-pinout-v1.png) ![TMP36 Pinout V2](https://github.com/queens-satellite-team/Space-School/blob/bb1df16b5dcc6b585fb614fad82e5aceec367c11/lab2/lab2-images/tmp36-pinout-v2.png](https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor))
 
 #### 1.2.3 Voltage to Temperature Equation
 We know that this sensor has a linear relationship between its input and output. This means that we can model the input and output by the equation `y = mx + b`, where y is the temperature in °C and x is the output voltage (Vout) of the sensor. We know from looking at the datasheet that our (m) value will be (10mV / 1°C), so all we are left is to determine our offset or (b) value. 
