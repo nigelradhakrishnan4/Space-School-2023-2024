@@ -2,9 +2,7 @@
 
 1️⃣  Read values from a temperature sensor on your Arduino.
 
-2️⃣  Understand the basics and benefits of GitHub. Start your first repository and upload your code using Git.
-
-# Part 1: Temperature Sensors and Arduino
+# Temperature Sensors and Arduino
 
 ## Step 1.0 - TMP36 Overview
 Our goal is to read the ambient temperature of our payload using a sensor. We can do this by using the TMP36 temperature sensor, which is an analog electronic device. In Step 1, we will figure out what exactly that means, and what are the characteristics of this sensor.
