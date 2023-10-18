@@ -68,4 +68,4 @@ The PIN connections are as follows:
 - LV4 --> Device SCLK
 
 # Section 3: SD Card Software 
-An example Arduino sketch to control the above SD card setup is provided in _lab 5's code folder_. This example sketch does not require - or implement - any sensors that we have worked with prior to, and should be used only to validate the working condition of the hardware setup of an arduino, sd-card reader, and logic-level shifter.
+An example Arduino sketch to control the above SD card setup is provided in the lab 3 code file. This example sketch does not require - or implement - any sensors that we have worked with prior to, and should be used only to validate the working condition of the hardware setup of an Arduino, sd-card reader, and logic-level shifter.
