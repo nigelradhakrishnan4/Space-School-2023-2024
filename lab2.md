@@ -261,7 +261,7 @@ We started with `Temperate C = [Vout in mV - 500mV] / (10mV / °C)` and converte
 ❓ Where in our code do we include that? 
 
 
-### 3.3 Including ADC Mapping
+### 3.3 Code for TMP36 Sensor
 Now let us include both the conversion factor and the ADC mapping and see if we can get a value that is reflective of the actual temperature. In the text editor copy the lines of code shown below into your own monitor.
 
 ```
