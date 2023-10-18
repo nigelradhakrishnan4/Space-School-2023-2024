@@ -6,11 +6,9 @@ If you have any questions please feel free to reach out to Sydney Caulfeild, Tho
 
 # Goals of Lab 1 
 
-1️⃣  Setting up a working programming environment
+1️⃣  Understanding the Arduino IDE
 
-2️⃣  Understanding the Arduino IDE
-
-3️⃣  Building a blinky LED program and circuit
+2️⃣  Building a blinky LED program and circuit
 
 ## What is an Arduino? 
 An Arduino is a [microcontroller](https://www.youtube.com/watch?v=CqrQmQqpHXc), or a small computer than can perform instructions that we write. We can write a program - a series of instructions - that tells this small computer how it should interact with sensors, lights, and various input from human-users. We will be using these Arduinos as the on-board computer for our ToastSat, which is one of the six subsystems of our satellite. The basic parts of an Arduino Nano (the board you have today) are outlined below:
