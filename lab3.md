@@ -1,9 +1,9 @@
 # Introduction 
-Hello! Welcome to the fifth lab of Space School! In this lab we are going to focus on the data storage element of your toastSats. In this lab, you will find the required hardware connections, as well as some example code, to interact with the SD card reader. Every toastSat team will have an SD card on their payload regardless of their chosen sensor suite. As such, when you are thinking about the mass, power consumption, and volume of your toastSat, please keep this setup in mind. 
+Hello! Welcome to the third lab of Space School! In this lab we are going to focus on the data storage element of your toastSats. In this lab, you will find the required hardware connections, as well as some example code, to interact with the SD card reader. Every toastSat team will have an SD card on their payload regardless of their chosen sensor suite. As such, when you are thinking about the mass, power consumption, and volume of your toastSat, please keep this setup in mind. 
 
 If you have any questions please feel free to reach out to Sydney Caulfeild, Emma Paczkowski, Sean Tedesco, Thomas Sears, or any other member of the QSAT Team. Contact info can be found in the [readme](https://github.com/queens-satellite-team/Space-School) of this repository. 
 
-# Goals of Lab 5 
+# Goals of Lab 3 
 1️⃣ Understand why we need an SD card and what an SD card means. 
 
 2️⃣ Create the hardware connection for a logic level shifter between the microcontroller and SD card reader.
