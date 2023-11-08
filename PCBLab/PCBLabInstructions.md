@@ -179,4 +179,6 @@ Gerber files are what we need to give the manufacturer in order to make our PCB.
 
 ![alt text](https://github.com/HarrisonMKG/space-school-pcb/blob/739b23a0e3657eb07eec198d646021f00f01a6ff/docs/Pasted_image_20231103170149.png)
 
-Hit `Ctrl+S` to save the file and then navigate to your project folder and find your folder named 'Project Outputs'. Right click on it Zip it and give it to your instructor to order and complete the fabrication process.
+Hit `Ctrl+S` to save the file and then navigate to your project folder and find your folder named 'Project Outputs'. Right click on it Zip it and send it to Nigel or Vanessa to order and complete the fabrication process.
+
+You have completed the PCB lab!
